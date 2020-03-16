@@ -1,7 +1,9 @@
 # react-forms-1
 
 ### Exercise 1: Basic Form
-Create a new component called `PersonStats`. In `PersonStats`, create a form that will allow the user to input their name, age, and how they feel right now. Once submitted, display the message: "Hello [NAME]. Your age is [AGE] and you're feeling [FEELING] below the text fields. 
+- Create a `AppContainer` component to maintain shared stat
+- Create a new component called `PersonStats`. In `PersonStats`, create a form that will allow the user to input their name, age, and how they feel right now. 
+- Once submitted, display the message: `Hello [NAME]. Your age is [AGE] and you're feeling [FEELING]` below the form. HINT: Use an `inner` property to update a `<div>` 
 
 ### Exercise 2: Form that lifts state
 - Create a `AppContainer` component to maintain shared state (an array of blog posts)
