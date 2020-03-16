@@ -6,7 +6,7 @@
 - Create a new component called `PersonStats`. In `PersonStats`, create a form that will allow the user to input their name, age, and how they feel right now. 
 - Once submitted, display the message: `Hello [NAME]. Your age is [AGE] and you're feeling [FEELING]` below the form. HINT: Use an `inner` property to update a `<div>` 
 
-### Exercise 2: Challenge
+### Challenge
 - Create a new react app called `blogger-app`
 - Create a `AppContainer` component to maintain shared state (an array of blog posts)
 - Create a `HeaderComponent` that displays a `H1` header that says `My Blog`
